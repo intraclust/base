@@ -33,3 +33,4 @@
 *.opensdf
 *.vcxproj
 *.vcxproj.filters
+*.tlog
